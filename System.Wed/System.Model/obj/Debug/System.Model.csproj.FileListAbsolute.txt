@@ -1,0 +1,5 @@
+C:\Users\Duc\Desktop\Project\System.Wed\System.Model\bin\Debug\System.Model.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Model\bin\Debug\System.Model.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Model\obj\Debug\System.Model.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Model\obj\Debug\System.Model.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Model\obj\Debug\System.Model.pdb

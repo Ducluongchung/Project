@@ -1,0 +1,16 @@
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\System.Data.dll.config
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\System.Data.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\System.Data.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\EntityFramework.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\System.Model.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\System.Model.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\EntityFramework.xml
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.csproj.CopyComplete
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.Migrations.addbyDuc.resources
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\bin\Debug\System.Repository.dll.config
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\bin\Debug\System.Repository.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\bin\Debug\System.Repository.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\obj\Debug\System.Repository.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\obj\Debug\System.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\obj\Debug\System.Repository.csproj.CopyComplete
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\obj\Debug\System.Repository.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Repository\obj\Debug\System.Repository.pdb

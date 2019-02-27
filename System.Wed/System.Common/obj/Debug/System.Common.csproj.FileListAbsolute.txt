@@ -1,0 +1,6 @@
+C:\Users\Duc\Desktop\Project\System.Wed\System.Common\bin\Debug\System.Common.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Common\bin\Debug\System.Common.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Common\obj\Debug\System.Common.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Common\obj\Debug\System.Common.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Common\obj\Debug\System.Common.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Common\obj\Debug\System.Common.pdb
