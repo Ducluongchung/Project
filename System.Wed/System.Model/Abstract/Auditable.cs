@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace System.Model.Abstract
+namespace SystemWeb.Model.Abstract
 {
     public abstract class Auditable : IAuditable
     {

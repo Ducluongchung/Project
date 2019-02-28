@@ -1,0 +1,6 @@
+C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.Migrations.addbyDuc.resources
+C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.dll
+C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.pdb

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Xml.Linq;
 using System.Model.Abstract;
 
-namespace System.Model.Models
+namespace SystemWeb.Model.Models
 {
     [Table("Products")]
     public class Product : Auditable

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace System.Model.Abstract
+namespace SystemWeb.Model.Abstract
 {
     public interface IAuditable
     {

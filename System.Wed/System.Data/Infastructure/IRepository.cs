@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace System.Data.Infastructure
+namespace SystemWeb.Data.Infastructure
 {
     public interface IRepository<T> where T:class
     {

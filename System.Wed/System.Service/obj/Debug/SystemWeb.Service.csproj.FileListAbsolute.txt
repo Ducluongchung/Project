@@ -1,0 +1,4 @@
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.dll
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.pdb

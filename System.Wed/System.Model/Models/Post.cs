@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Model.Abstract;
+using SystemWeb.Model.Abstract;
 
-
-namespace System.Model.Models
+namespace SystemWeb.Model.Models
 {
     [Table("Posts")]
     public class Post : Auditable

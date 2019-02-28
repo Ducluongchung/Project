@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
-using System.Linq;
-using System.Model.Models;
-using System.Text;
-using System.Threading.Tasks;
+using SystemWeb.Model.Models;
 
-namespace System.Data
+namespace SystemWeb.Data
 {
     public class SystemDbContext:DbContext
     {

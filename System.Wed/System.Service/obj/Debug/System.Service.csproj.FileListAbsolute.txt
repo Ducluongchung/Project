@@ -7,3 +7,12 @@ C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.
 C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.csproj.CopyComplete
 C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.dll
 C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.pdb
+C:\Users\a\Desktop\Project\System.Wed\System.Service\bin\Debug\System.Service.dll
+C:\Users\a\Desktop\Project\System.Wed\System.Service\bin\Debug\System.Service.pdb
+C:\Users\a\Desktop\Project\System.Wed\System.Service\bin\Debug\System.Model.dll
+C:\Users\a\Desktop\Project\System.Wed\System.Service\bin\Debug\System.Model.pdb
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.csproj.CopyComplete
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.dll
+C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.pdb
