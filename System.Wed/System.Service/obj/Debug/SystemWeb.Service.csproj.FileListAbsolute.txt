@@ -2,3 +2,17 @@ C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service
 C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.csproj.CoreCompileInputs.cache
 C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.dll
 C:\Users\a\Desktop\Project\System.Wed\System.Service\obj\Debug\System.Service.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\EntityFramework.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\EntityFramework.xml
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.csproj.CopyComplete
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\SystemWeb.Service.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\SystemWeb.Service.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\SystemWeb.Data.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\SystemWeb.Model.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\SystemWeb.Data.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\SystemWeb.Data.dll.config
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\bin\Debug\SystemWeb.Model.pdb
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.dll
+C:\Users\Duc\Desktop\Project\System.Wed\System.Service\obj\Debug\SystemWeb.Service.pdb

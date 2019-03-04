@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Model.Abstract;
+using SystemWeb.Model.Abstract;
 
 namespace SystemWeb.Model.Models
 {

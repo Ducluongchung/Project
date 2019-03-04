@@ -7,8 +7,8 @@
     <ProjectGuid>{17827868-F1C5-409E-A34B-C36F9FC16B55}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>System.Common</RootNamespace>
-    <AssemblyName>System.Common</AssemblyName>
+    <RootNamespace>SystemWeb.Common</RootNamespace>
+    <AssemblyName>SystemWeb.Common</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

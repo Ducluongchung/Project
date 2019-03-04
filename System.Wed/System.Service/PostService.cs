@@ -7,7 +7,7 @@ using SystemWeb.Data.Infastructure;
 using SystemWeb.Data.Repository;
 using SystemWeb.Model.Models;
 
-namespace System.Service
+namespace SystemWeb.Service
 {
     public interface IPostService
     {
@@ -29,16 +29,18 @@ namespace System.Service
 
         void SaveChanges();
     }
+
     public class PostService : IPostService
     {
+        IPostRepository _postRepository;
+        IUnitOfWork _unitOfWork;
 
-        private readonly IPostRepository _postRepository;
-        private readonly IUnitOfWork _unitOfWork;
         public PostService(IPostRepository postRepository, IUnitOfWork unitOfWork)
         {
             this._postRepository = postRepository;
             this._unitOfWork = unitOfWork;
         }
+
         public void Add(Post post)
         {
             _postRepository.Add(post);
@@ -51,7 +53,7 @@ namespace System.Service
 
         public IEnumerable<Post> GetAll()
         {
-            return _postRepository.GetAll();
+            return _postRepository.GetAll(new string[] { "PostCategory" });
         }
 
         public IEnumerable<Post> GetAllByCategoryPaging(int categoryId, int page, int pageSize, out int totalRow)
@@ -61,12 +63,12 @@ namespace System.Service
 
         public IEnumerable<Post> GetAllByTagPaging(string tag, int page, int pageSize, out int totalRow)
         {
-            return _postRepository.GetAllByTag(tag, page, pageSize, out totalRow);
+            throw new NotImplementedException();
         }
 
         public IEnumerable<Post> GetAllPaging(int page, int pageSize, out int totalRow)
         {
-           return  _postRepository.GetMultiPaging(x => x.Status, out totalRow, page, pageSize);
+            return _postRepository.GetMultiPaging(x => x.Status, out totalRow, page, pageSize);
         }
 
         public Post GetById(int id)
@@ -81,7 +83,7 @@ namespace System.Service
 
         public void Update(Post post)
         {
-            _postRepository.Update();
+            _postRepository.Update(post);
         }
     }
 }

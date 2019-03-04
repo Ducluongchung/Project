@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
+using SystemWeb.Data.Repository;
 using SystemWeb.Model.Models;
 
 namespace SystemWeb.Data
@@ -28,6 +29,8 @@ namespace SystemWeb.Data
         public DbSet<Slide> Slides { set; get; }
         public DbSet<SupportOnline> SupportOnlines { set; get; }
         public DbSet<SystemConfig> SystemConfigs { set; get; }
+
+        public DbSet<Error> Errors { set; get; }
 
         public DbSet<Tag> Tags { set; get; }
 
