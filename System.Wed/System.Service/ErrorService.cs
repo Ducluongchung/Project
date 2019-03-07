@@ -26,7 +26,7 @@ namespace SystemWeb.Service
 
         public Error Create(Error error)
         {
-            throw new NotImplementedException();
+            return _errorRepository.Add(error);
         }
 
         public void Save()

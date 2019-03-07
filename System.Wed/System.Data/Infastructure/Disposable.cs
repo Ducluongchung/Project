@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SystemWeb.Data.Infastructure
 {
-    public class Disposable
+    public class Disposable : IDisposable
     {
         private bool isDisposed;
 

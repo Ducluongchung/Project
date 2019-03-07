@@ -12,7 +12,7 @@ namespace SystemWeb.Data
         {
             this.Configuration.LazyLoadingEnabled = false;
         }
-
+        public DbSet<Error> Errors { set; get; }
         public DbSet<Footer> Footers { set; get; }
         public DbSet<Menu> Menus { set; get; }
         public DbSet<MenuGroup> MenuGroups { set; get; }
@@ -29,8 +29,6 @@ namespace SystemWeb.Data
         public DbSet<Slide> Slides { set; get; }
         public DbSet<SupportOnline> SupportOnlines { set; get; }
         public DbSet<SystemConfig> SystemConfigs { set; get; }
-
-        public DbSet<Error> Errors { set; get; }
 
         public DbSet<Tag> Tags { set; get; }
 

@@ -5,8 +5,6 @@ C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.cspro
 C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.dll
 C:\Users\a\Desktop\Project\System.Wed\System.Data\obj\Debug\System.Data.pdb
 C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.csprojAssemblyReference.cache
-C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.Migrations.addbyDuc.resources
-C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.csproj.GenerateResource.cache
 C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.csproj.CoreCompileInputs.cache
 C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\EntityFramework.dll
 C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\EntityFramework.SqlServer.dll
@@ -20,4 +18,5 @@ C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\SystemWeb.Model.dl
 C:\Users\Duc\Desktop\Project\System.Wed\System.Data\bin\Debug\SystemWeb.Model.pdb
 C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.dll
 C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.pdb
-C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.Migrations.de.resources
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.Migrations.duc.resources
+C:\Users\Duc\Desktop\Project\System.Wed\System.Data\obj\Debug\SystemWeb.Data.csproj.GenerateResource.cache
