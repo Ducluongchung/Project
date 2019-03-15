@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div ng-app="myApp" ng-controller="myCtrl">
+
+    <p>Today's welcome message is:</p>
+    <span ng-repeat="x in myWelcome">
+        {{ x.ID + ', ' + x.Name }}
+    </span>
+</div>
+
+<script>
+var app = angular.module('myApp', []);
+    app.controller('myCtrl', function($scope, $http) {
+   $http.get('/api/PostCategory/getall')
+  .then(function(response) {
+    $scope.myWelcome = response.data;
+  });
+});
+</script>
+

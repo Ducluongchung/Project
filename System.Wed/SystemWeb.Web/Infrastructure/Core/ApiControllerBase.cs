@@ -12,7 +12,8 @@ namespace SystemWeb.Web.Infrastructure.Core
 {
     public class ApiControllerBase : ApiController
     {
-        protected IErrorService _errorService;
+        private IErrorService _errorService;
+
         public ApiControllerBase(IErrorService errorService)
         {
             this._errorService = errorService;

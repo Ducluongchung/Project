@@ -14,7 +14,7 @@ namespace SystemWeb.Data.Repository
     }
     public class PostRepository:RepositoryBase<Post>,IPostRepository
     {
-        public PostRepository(DbFactory dbFactory):base(dbFactory)
+        public PostRepository(IDbFactory dbFactory):base(dbFactory)
         {
 
         }

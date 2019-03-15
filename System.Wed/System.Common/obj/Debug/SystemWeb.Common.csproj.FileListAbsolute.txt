@@ -10,3 +10,9 @@ C:\Users\Duc\Desktop\Project\System.Wed\System.Common\bin\Debug\SystemWeb.Common
 C:\Users\Duc\Desktop\Project\System.Wed\System.Common\obj\Debug\SystemWeb.Common.dll
 C:\Users\Duc\Desktop\Project\System.Wed\System.Common\obj\Debug\SystemWeb.Common.pdb
 C:\Users\Duc\Desktop\Project\System.Wed\System.Common\obj\Debug\SystemWeb.Common.csprojAssemblyReference.cache
+C:\Users\a\Source\Repos\Project\System.Wed\System.Common\bin\Debug\SystemWeb.Common.dll
+C:\Users\a\Source\Repos\Project\System.Wed\System.Common\bin\Debug\SystemWeb.Common.pdb
+C:\Users\a\Source\Repos\Project\System.Wed\System.Common\obj\Debug\SystemWeb.Common.csprojAssemblyReference.cache
+C:\Users\a\Source\Repos\Project\System.Wed\System.Common\obj\Debug\SystemWeb.Common.csproj.CoreCompileInputs.cache
+C:\Users\a\Source\Repos\Project\System.Wed\System.Common\obj\Debug\SystemWeb.Common.dll
+C:\Users\a\Source\Repos\Project\System.Wed\System.Common\obj\Debug\SystemWeb.Common.pdb

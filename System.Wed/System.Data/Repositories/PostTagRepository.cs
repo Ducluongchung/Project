@@ -15,7 +15,7 @@ namespace SystemWeb.Data.Repository
     }
     public class PostTagRepository : RepositoryBase<PostTag>, IPostTagRepository
     {
-        public PostTagRepository(DbFactory dbFactory) : base(dbFactory)
+        public PostTagRepository(IDbFactory dbFactory) : base(dbFactory)
         {
 
         }

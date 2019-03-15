@@ -10,7 +10,7 @@ namespace SystemWeb.Data.Repository
     }
     public class MenuGroupRepository:RepositoryBase<MenuGroup>, IMenuGroupRepository
     {
-        public MenuGroupRepository(DbFactory dbFactory):base(dbFactory)
+        public MenuGroupRepository(IDbFactory dbFactory):base(dbFactory)
         {
 
         }

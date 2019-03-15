@@ -7,3 +7,9 @@ C:\Users\Duc\Desktop\Project\System.Wed\System.Model\bin\Debug\SystemWeb.Model.d
 C:\Users\Duc\Desktop\Project\System.Wed\System.Model\bin\Debug\SystemWeb.Model.pdb
 C:\Users\Duc\Desktop\Project\System.Wed\System.Model\obj\Debug\SystemWeb.Model.dll
 C:\Users\Duc\Desktop\Project\System.Wed\System.Model\obj\Debug\SystemWeb.Model.pdb
+C:\Users\a\Source\Repos\Project\System.Wed\System.Model\bin\Debug\SystemWeb.Model.dll
+C:\Users\a\Source\Repos\Project\System.Wed\System.Model\bin\Debug\SystemWeb.Model.pdb
+C:\Users\a\Source\Repos\Project\System.Wed\System.Model\obj\Debug\SystemWeb.Model.csprojAssemblyReference.cache
+C:\Users\a\Source\Repos\Project\System.Wed\System.Model\obj\Debug\SystemWeb.Model.csproj.CoreCompileInputs.cache
+C:\Users\a\Source\Repos\Project\System.Wed\System.Model\obj\Debug\SystemWeb.Model.dll
+C:\Users\a\Source\Repos\Project\System.Wed\System.Model\obj\Debug\SystemWeb.Model.pdb

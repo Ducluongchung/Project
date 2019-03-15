@@ -51,7 +51,7 @@ namespace SystemWeb.Service
 
         public IEnumerable<PostCategory> GetAll()
         {
-            return _postCategoryRepository.GetAll(new string[] { "PostCategory" });
+            return _postCategoryRepository.GetAll();
         }
 
         public IEnumerable<PostCategory> GetAllByCategoryPaging(int categoryId, int page, int pageSize, out int totalRow)
