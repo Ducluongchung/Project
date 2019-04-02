@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNet.Identity.EntityFramework;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using SystemWeb.Data.Repository;
@@ -6,7 +7,7 @@ using SystemWeb.Model.Models;
 
 namespace SystemWeb.Data
 {
-    public class SystemDbContext:DbContext
+    public class SystemDbContext:IdentityDbContext<ApplicationUser>
     {
         public SystemDbContext() : base("SystemContext")
         {
@@ -34,9 +35,17 @@ namespace SystemWeb.Data
 
         public DbSet<VisitorStatistic> VisitorStatistics { set; get; }
 
+        public static SystemDbContext Create()
+        {
+            return new SystemDbContext();
+        }
         protected override void OnModelCreating(DbModelBuilder builder)
         {
-
+            builder.Entity<IdentityUserRole>().HasKey(i => new { i.UserId, i.RoleId }).ToTable("ApplicationUserRoles");
+            builder.Entity<IdentityUserLogin>().HasKey(i => i.UserId).ToTable("ApplicationUserLogins");
+            builder.Entity<IdentityRole>().ToTable("ApplicationRoles");
+            builder.Entity<IdentityUserClaim>().HasKey(i => i.UserId).ToTable("ApplicationUserClaims");
         }
+        
     }
 }
