@@ -11,23 +11,19 @@ namespace SystemWeb.Service
 {
     public interface IPostCategoryService
     {
-        void Add(PostCategory postCategory);
+        PostCategory Add(PostCategory postCategory);
 
         void Update(PostCategory postCategory);
 
-        void Delete(int id);
+        PostCategory Delete(int id);
 
         IEnumerable<PostCategory> GetAll();
 
-        IEnumerable<PostCategory> GetAllPaging(int page, int pageSize, out int totalRow);
-
-        IEnumerable<PostCategory> GetAllByCategoryPaging(int categoryId, int page, int pageSize, out int totalRow);
+        IEnumerable<PostCategory> GetAllByParentId(int parentId);
 
         PostCategory GetById(int id);
 
-        IEnumerable<PostCategory> GetAllByTagPaging(string tag, int page, int pageSize, out int totalRow);
-
-        void SaveChanges();
+        void Save();
     }
     public class PostCategoryService : IPostCategoryService
     {
@@ -39,12 +35,13 @@ namespace SystemWeb.Service
             this._postCategoryRepository = postCategoryRepository;
             this.UnitOfWork = unitOfWork;
         }
-        public void Add(PostCategory postCategory)
+
+        public PostCategory Add(PostCategory postCategory)
         {
-            throw new NotImplementedException();
+            return _postCategoryRepository.Add(postCategory);
         }
 
-        public void Delete(int id)
+        public PostCategory Delete(int id)
         {
             throw new NotImplementedException();
         }
@@ -54,17 +51,7 @@ namespace SystemWeb.Service
             return _postCategoryRepository.GetAll();
         }
 
-        public IEnumerable<PostCategory> GetAllByCategoryPaging(int categoryId, int page, int pageSize, out int totalRow)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<PostCategory> GetAllByTagPaging(string tag, int page, int pageSize, out int totalRow)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<PostCategory> GetAllPaging(int page, int pageSize, out int totalRow)
+        public IEnumerable<PostCategory> GetAllByParentId(int parentId)
         {
             throw new NotImplementedException();
         }
@@ -74,9 +61,9 @@ namespace SystemWeb.Service
             throw new NotImplementedException();
         }
 
-        public void SaveChanges()
+        public void Save()
         {
-            throw new NotImplementedException();
+            UnitOfWork.Commit();
         }
 
         public void Update(PostCategory postCategory)
